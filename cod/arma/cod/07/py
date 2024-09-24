@@ -1,0 +1,15 @@
+x =0
+soma_notas =0
+acumuladora = 0
+
+while x != -1: 
+
+    float(input('digite a media ou -1 para sair:'))
+
+    if x != -1:
+        soma_notas= soma_notas + x 
+        acumuladora= acumuladora + 1
+
+media= soma_notas / acumuladora 
+
+print(media)
