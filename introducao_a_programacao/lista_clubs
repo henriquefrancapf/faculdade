@@ -1,0 +1,18 @@
+es = ['caiçara',' cairos' ,'juniors', 'celtas', 'flaming']
+
+
+clube_verificador = input ("digite o seu clube de coração:")
+
+confirmacao_de_busca = False
+
+
+for clube in clubes : 
+
+    if clube. upper () == clube_verificador. upper ():
+        confirmacao_de_busca = True 
+
+if confirmacao_de_busca : 
+    print ('achei!')
+
+else: 
+    print(' não achei!')
