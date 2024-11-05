@@ -1,0 +1,27 @@
+lista_de_compras =[]
+
+#opcao
+def adcionar_item(lista_de_compras:list)-> list:
+    novo_item = input('digite o novo item a ser adcionado:')
+    lista_de_compras = lista_de_compras + [novo_item]
+
+    return lista_de_compras
+
+
+
+#opcao2
+def deletar_item(lisya_de_compras:list) ->list:
+
+    item_remover = int(input('digite o codigo do item:')) - 1 []
+    del lista_de_compras [item_remover]
+
+    return lista_de_compras
+ 
+#opcao3 
+def exibir_lista (lista_de_compras: list):
+
+
+    for i in range (len( lista_de_compras)):
+        print(f'{i+1}-{ lista_de_compras} ')
+
+opca0= 1000
