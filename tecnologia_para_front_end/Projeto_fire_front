@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head> 
+    <form>      
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso Online - Página 2</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css"> <!-- Link para CSS adicional -->
+</head>
+<body>
+    <header class="bg-info text-white text-center py-5">
+        <h1 style="color: rgb(194, 1, 1);">ZEROum tactical</h1>
+        <p>Explorar os módulos e conteúdos disponíveis!</p>
+    </header>
+
+    <div class="container my-5">
+        <h2 class="text-center mb-4">Conteúdos do Curso</h2>
+        <ul> 
+            ,<a href=" entrar no curso"> </a>
+            <li><strong>Módulo 1: Operador de pistola</strong> Nível médio</li >
+            <li><strong>Módulo 2: Combate velado</strong> Nível médio</li>
+            <li><strong>Módulo 3:VCQB</strong> Avançado</li>
+            <li><strong>Módulo 4: Insttrutor avançado</strong> Avançado</li>
+        </ul>
+
+        <hr>
+        <h2 class="text-center mb-4">Depoimentos</h2>
+        <p><em>"Este curso mudou minha vida!"</em> - João Silva</p>
+        <p><em>"Aprendi muito e me sinto preparado para o mercado!"</em> - Maria Oliveira</p>
+
+        <hr>
+        <p>Volte para a <a href="index.html">Página Inicial</a>.</p>
+    </div>
+
+    <footer class="bg-dark text-white text-center py-3">
+        <p>&copy; 2023 Curso Online. sua defesa em primeiro lugar.</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.7/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    </form>
+</body>
+</html>
+
+
+
+
+
+
+
+  
+  # segunda parte
+  
+ <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso Tático - Módulos</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="bg-info text-white text-center py-5">
+        <h1>Módulos do Curso Tático</h1>
+        <p>Aprofunde-se nas técnicas de combate e defesa!</p>
+    </header>
+
+    <div class="container my-5">
+        <h2 class="text-center mb-4">Divisão dos Módulos</h2>
+
+        <div class="mb-5">
+            <h3>Módulo 1: Operador de Pistola</h3>
+            <p>Aprenda a manusear e operar uma pistola de forma segura e eficaz.</p>
+            <img src="https://via.placeholder.com/300" class="img-fluid" alt="Operador de Pistola">
+        </div>
+
+        <div class="mb-5">
+            <h3>Módulo 2: Combate Velado</h3>
+            <p>Desenvolva habilidades para combate em situações de baixa visibilidade e em ambientes urbanos.</p>
+            <img src="https://via.placeholder.com/300" class="img-fluid" alt="Combate Velado">
+        </div>
+
+        <div class="mb-5">
+            <h3>Módulo 3: VCQB</h3>
+            <p>Treinamento em combate corpo a corpo, focando em técnicas de proteção e ataque.</p>
+            <img src="https://via.placeholder.com/300" class="img-fluid" alt="VCQB">
+        </div>
+
+        <div class="mb-5">
+            <h3>Módulo 4: Instrutor Avançado</h3>
+            <p>Capacitação para se tornar um instrutor e ensinar técnicas de combate para outros.</p>
+            <img src="https://via.placeholder.com/300" class="img-fluid" alt="Instrutor Avançado">
+        </div>
+
+        <hr>
+        <p>Volte para a <a href="index.html">Página Inicial</a>.</p>
+    </div>
+
+    <footer class="bg-dark text-white text-center py-3">
+        <p>&copy; 2023 Curso Tático. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.7/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+  #terceira parte
+
+  <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #ffffff;
+        }
+        header {
+            background-color: #3a2574;
+        }
+        footer {
+            background-color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+    <header class="bg-primary text-white text-center py-5">
+        <h1>Curso Tático em Fotos</h1>
+        <p>Aprenda técnicas de combate e defesa pessoal!</p>
+    </header>
+
+    <div class="container my-5" id="sobre-curso">
+        <h2 class="text-center mb-4">Sobre o Curso</h2>
+        <p>Neste curso, você aprenderá diversas técnicas de combate tático, incluindo o uso de pistolas e estratégias de combate velado.</p>
+
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                <img src="https://via.placeholder.com/300 "   class="img-fluid"  alt="Treinamento 1">
+            </div>
+            <div class="col-md-4 mb-4">
+                <img src="https://via.placeholder.com/300" class="img-fluid" alt="Treinamento 2">
+            </div>
+            <div class="col-md-4 mb-4">
+                <img src="https://via.placeholder.com/300" class="img-fluid" alt="Treinamento 3">
+            </div>
+        </div>
+
+        <h2 class="text-center mb-4">Inscreva-se Agora!</h2>
+        <form id="form-inscricao">
+            <div class="form-group">
+                <label for="nome">Nome Completo:</label>
+                <input type="text" class="form-control" id="nome" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" class="form-control" id="email" required>
+            </div>
+            <div class="form-group">
+                <label for="telefone">Telefone:</label>
+                <input type="tel" class="form-control" id="telefone" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Enviar Inscrição</button>
+        </form>
+        <hr>
+        <p>Para mais informações sobre os módulos de curso, clique <a href="#modulos">aqui</a>.</p>
+    </div>
+
+    <div class="container my-5" id="modulos">
+        <h2 class="text-center mb-4">Módulos do Curso Tático</h2>
+
+        <div class="mb-5">
+            <h3>Módulo 1: Operador de Pistola</h3>
+            <p>Aprenda a manusear e operar uma pistola de forma segura e eficaz.</p>
+            <img src="https://via.placeholder.com/300" class="img-fluid" alt="Operador de Pistola">
+        </div>
+
+        <div class="mb-5">
+            <h3>Módulo 2: Combate Velado</h3>
+            <p>Desenvolva habilidades para combate em situações de baixa visibilidade e em ambientes urbanos.</p>
+            <img src="https://via.placeholder.com/300" class="img-fluid" alt="Combate Velado">
+        </div>
+
+        <div class="mb-5">
+            <h3>Módulo 3: VCQB</h3>
+            <p>Treinamento em combate corpo a corpo, focando em técnicas de proteção e ataque.</p>
+            <img src="https://via.placeholder.com/300" class="img-fluid" alt="VCQB">
+        </div>
+
+        <div class="mb-5">
+            <h3>Módulo 4: Instrutor Avançado</h3>
+            <p>Capacitação para se tornar um instrutor e ensinar técnicas de combate para outros.</p>
+            <img src="https://via.placeholder.com/300" class="img-fluid" alt="Instrutor Avançado">
+        </div>
+
+        <hr>
+        <p>Volte para o <a href="#sobre-curso">início</a>.</p>
+    </div>
+
+    <footer class="bg-dark text-white text-center py-3">
+        <p>&copy; 2023 Curso Tático. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.7/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    
+    <script>
+        // Script para lidar com o envio do formulário
+        document.getElementById("form-inscricao").onsubmit = function(event) {
+            event.preventDefault(); // Evita o envio padrão do formulário
+            alert("Inscrição enviada com sucesso!");
+            // Aqui você pode adicionar código para enviar os dados do formulário para um servidor, se necessário
+        };
+    </script>
+</body>
+</html>
